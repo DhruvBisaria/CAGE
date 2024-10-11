@@ -7,7 +7,7 @@ In the meantime, you can get a sense of what this code does by taking a look at 
 
 I have attached a folder with a sample galaxy for any user to test its functionality. For now, simply run 'python3 CAGE_master.py sample_galaxy/sample_run_order.csv' to get started. The 
 
-CAGE runs on Python 3.7.3 has a GPL-3.0 License.
+CAGE runs on Python 3.7.4 has a GPL-3.0 License.
 
 In the meantime, if you have any issues or questions, please PM me or raise an issue here on Github.
 

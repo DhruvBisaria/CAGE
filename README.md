@@ -1,7 +1,6 @@
 # CAGE
-Cube-based Anomalous Gas Estimator
 
-CAGE is a code suite that is a wrapper around KinMS. It uses KinMS to kinematically model the data cubes of galaxies and uses hierarchical clustering algorithms (Astrodendro) to identify gas in each frame that is anomalous with a thin disk approximation. I am currently working on making this suite publicly usable and am in the process of addressing some remaining bugs. 
+The Cube-based Anomalous Gas Estimator (CAGE) is a code suite that is a wrapper around KinMS. It uses KinMS to kinematically model the data cubes of galaxies and uses hierarchical clustering algorithms (Astrodendro) to identify gas in each frame that is anomalous with a thin disk approximation. I am currently working on making this suite publicly usable and am in the process of addressing some remaining bugs. 
 
 Documentation to drop in the near future! 
 
